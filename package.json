@@ -1,0 +1,11 @@
+{
+    "name": "simple-journal",
+    "version": "0.0.0",
+    "private": true,
+    "dependencies": {
+        "crypto-js": "^3.1.8"
+    },
+    "scripts": {
+        "test": "node test"
+    }
+}
